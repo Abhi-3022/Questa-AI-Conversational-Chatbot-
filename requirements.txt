@@ -3,6 +3,4 @@
 ## Dependencies
 streamlit
 google-generativeai
-datetime
-re
 
