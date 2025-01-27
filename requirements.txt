@@ -1,0 +1,8 @@
+# Conversational AI Chatbot Requirements
+
+## Dependencies
+streamlit
+google-generativeai
+datetime
+re
+
