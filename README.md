@@ -1,5 +1,3 @@
-# Questa-AI-Conversational-Chatbot-
-
 # Questa - Your Intelligent Chat Companion 🤖
 
 Questa is an advanced chatbot application designed to deliver an engaging, intelligent, and emoji-enriched conversational experience. Leveraging Google's Generative AI with Gemini models, Questa provides personalized responses while handling special intents like greetings, weather discussions, and time queries.
