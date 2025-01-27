@@ -83,11 +83,6 @@ Questa uses the Gemini-Pro model by Google Generative AI to generate intelligent
 
 ---
 
-## License 📄
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
-
----
-
 ## Contributing 🙌
 We welcome contributions to Questa! Please feel free to submit a pull request or create an issue for feature requests or bug reports.
 
