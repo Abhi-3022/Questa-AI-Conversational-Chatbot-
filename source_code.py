@@ -200,7 +200,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Get API key
-    st.session_state.GOOGLE_API_KEY = 'AIzaSyCigDCyJep9exItOgnnSKUoL22-c7uekbE'
+    st.session_state.GOOGLE_API_KEY = 'Enter your API KEY' # use google suite for api generation
 
     # Initialize session state
     if 'chat_history' not in st.session_state:
